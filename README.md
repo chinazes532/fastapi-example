@@ -53,14 +53,18 @@ pip install -r requirements.txt
 │   │   └── models.py
 │   ├── handlers/
 │   │   └── author_repository.py
+│   │   └── book_repository.py
 │   ├── routers/
 │   │   └── authors.py
+│   │   └── books.py
 │   ├── schemas/
 │   │   └── authors.py
+│   │   └── books.py
 │   ├── config.py
 │   └── main.py
 ├── tests/
 │   └── test_authors.py
+│   └── test_books.py
 └── requirements.txt
 </code></pre>
 
